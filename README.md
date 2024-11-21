@@ -50,7 +50,7 @@ username,quiz_type,score
 
 Example Usage
 # Register
-
+```
 Main Menu
 1. Register
 2. Login
@@ -62,8 +62,9 @@ Register
 Enter username: ansh
 Enter password: password123
 Registration successful! Please login to continue.
-
+```
 # Login and Attempt Quiz
+```
 Main Menu
 1. Register
 2. Login
@@ -104,8 +105,9 @@ Your answer: 2
 
 Quiz completed! Your score: 2/2
 Your highest score in python quiz: 2
-
+```
 # View High Scores
+```
 Quiz Menu
 1. Attempt Quiz
 2. View High Scores
@@ -114,3 +116,4 @@ Enter your choice (1-3): 2
 
 High Scores for ansh:
 python: 2
+```
